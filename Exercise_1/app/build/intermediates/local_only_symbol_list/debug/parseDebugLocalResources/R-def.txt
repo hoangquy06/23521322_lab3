@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color sentiment_negative
+color sentiment_positive
+id errorMessage
+id image
+id message
+id meta
+id progress
+id recyclerView
+id retryButton
+id sentiment
+id switchPositiveOnly
+id title
+id toolbar
+layout activity_main
+layout item_article
+layout item_load_state
+string app_name
+string empty_list
+string empty_positive_only
+string missing_api_key
+string positive_only
+string retry
+style Theme.Exercise1NewsApp

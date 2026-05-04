@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="sentiment_negative">#B71C1C</color>
+    <color name="sentiment_positive">#1B5E20</color>
+    <string name="app_name">News App</string>
+    <string name="empty_list">Không có dữ liệu. Kiểm tra mạng và API key.</string>
+    <string name="empty_positive_only">Không có bài Positive (hoặc sentiment chưa phân tích xong). Thử tắt “Chỉ positive”.</string>
+    <string name="missing_api_key">Thiếu NEWS_API_KEY. Hãy cấu hình trong local.properties (khuyến nghị) hoặc gradle.properties.</string>
+    <string name="positive_only">Chỉ positive</string>
+    <string name="retry">Retry</string>
+    <style name="Theme.Exercise1NewsApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:navigationBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+    </style>
+</resources>

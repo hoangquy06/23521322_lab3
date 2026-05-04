@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\tuf\\.gradle\\daemon\\8.9\\com.exercise1.newsapp-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\tuf\\.gradle\\daemon\\8.9\\com.exercise1.newsapp-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tuf\\.gradle\\daemon\\8.9\\com.exercise1.newsapp-mergeDebugResources-43:\\layout\\item_article.xml",
+        "source": "C:\\Users\\tuf\\.gradle\\daemon\\8.9\\com.exercise1.newsapp-main-46:\\layout\\item_article.xml"
+    },
+    {
+        "merged": "com.exercise1.newsapp-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.exercise1.newsapp-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tuf\\.gradle\\daemon\\8.9\\com.exercise1.newsapp-mergeDebugResources-43:\\layout\\item_load_state.xml",
+        "source": "C:\\Users\\tuf\\.gradle\\daemon\\8.9\\com.exercise1.newsapp-main-46:\\layout\\item_load_state.xml"
+    }
+]
