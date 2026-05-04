@@ -1,0 +1,8 @@
+@echo off
+setlocal
+
+set APP_HOME=%~dp0
+set JAVA_EXE=java
+
+"%JAVA_EXE%" -classpath "%APP_HOME%gradle\\wrapper\\gradle-wrapper.jar" org.gradle.wrapper.GradleWrapperMain %*
+

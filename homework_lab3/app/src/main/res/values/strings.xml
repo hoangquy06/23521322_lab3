@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework_lab3</string>
+    <string name="search">Search</string>
+    <string name="query_hint">Nhập từ khoá</string>
+    <string name="smart_search">Smart search</string>
+    <string name="ai_tag_hint">AI tag (label)</string>
+    <string name="retry">Retry</string>
+</resources>
+
